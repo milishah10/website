@@ -88,7 +88,7 @@ module.exports = {
         name: `Mili Shah`,
         short_name: `milishah`,
         description:
-          'The personal website of Mili Shah. Learn and level-up about React & JavaScript.',
+          'The personal website of Mili Shah. Freelance content writer.',
         background_color: `#1f2347`,
         theme_color: `#FFCC68`,
         display: `standalone`,

@@ -8,8 +8,7 @@ import { SchemaOrg } from './SchemaOrg'
 
 const locales = {
   en: {
-    description:
-      'The personal website of Mili Shah. Learn and level-up about React & JavaScript.',
+    description: 'The personal website of Mili Shah. Freelance content writer.',
   },
   fr: {
     description:
