@@ -17,9 +17,9 @@ export default function IndexPage({ data }) {
           <br />I help people make the web great.
         </HeroTitle>
         <HeroTeaser>
-          I am a software engineer based in Paris. I create tools and teach how
-          to build high quality websites and applications using JavaScript and
-          React.
+          I am India-based SEO executive turned freelance writer specializing in
+          writing web blogs to case studies for various industries that converts
+          and increasing organic search rankings.
         </HeroTeaser>
       </Hero>
       <Container forwardedAs="section" pb={5}>
