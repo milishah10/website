@@ -80,7 +80,7 @@ export function Share({ url, title }) {
           <Line />
         </Box>
         <Box col="auto" px={2}>
-          <TwitterShareButton url={url} title={title} via="neoziro">
+          <TwitterShareButton url={url} title={title} via="mili_shah10">
             <FaTwitter />
           </TwitterShareButton>
         </Box>

@@ -78,8 +78,8 @@ export default function AboutPage() {
           <p>
             N’hésitez par à me contacter par{' '}
             <a href="mailto:milishah1097@gmail.com">email</a> ou via{' '}
-            <a href="https://twitter.com/neoziro">Twitter</a>. C’est toujours un
-            plaisir d’échanger !
+            <a href="https://twitter.com/mili_shah10">Twitter</a>. C’est
+            toujours un plaisir d’échanger !
           </p>
         </AboutText>
       </AboutContainer>

@@ -73,7 +73,7 @@ export default function AboutPage() {
           <p>
             Don&apos;t hesitate to reach out by{' '}
             <a href="mailto:milishah1097@gmail.com">email</a> or on{' '}
-            <a href="https://twitter.com/neoziro">Twitter</a>. I&apos;ll be
+            <a href="https://twitter.com/mili_shah10">Twitter</a>. I&apos;ll be
             happy to talk!
           </p>
         </AboutText>
