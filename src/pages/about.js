@@ -22,10 +22,10 @@ export default function AboutPage() {
       <Seo title="About Mili Shah" />
       <AboutContainer>
         <Container>
-          <SectionTitle>Hi I&#39;m Greg!</SectionTitle>
+          <SectionTitle>Hi I&#39;m Mili!</SectionTitle>
           <SectionDescription>
-            I&#39;m a software engineer based in Paris, who enjoys building
-            things.
+            I can craft the unique content about your brand and convert the
+            cynic into a loyal brand promoter.
           </SectionDescription>
         </Container>
         <AboutImage img={data.photo.childImageSharp} />
