@@ -31,50 +31,30 @@ export default function AboutPage() {
         <AboutImage img={data.photo.childImageSharp} />
         <AboutText>
           <p>
-            When I was 12 years old, I created a gaming website which after a
-            few months grew big enough to be sold to a company. At 19, I became{' '}
-            <strong>R&D engineer</strong> at{' '}
-            <a href="https://www.lemonde.fr">Le Monde</a> and lead the CMS
-            project of the newspaper group.
+            I can craft creative content leveraging market-savvy acumen in
+            business or consumer trends monitoring and analysis to create new or
+            re-define existing brand strategies.
           </p>
 
           <p>
-            I joined the founding team of{' '}
-            <a href="https://www.doctolib.fr">Doctolib</a> to build the{' '}
-            <strong>first medical booking software in Europe</strong>.
+            I have expertise at collaborating and coordinating efforts to
+            consistently produce marketing and advertising collateral that
+            drives awareness and profitability along with better search engine
+            ranking.
           </p>
 
           <p>
-            In 2017, I founded <strong>Smooth Code</strong>, a software
-            development studio to help startups like{' '}
-            <a href="http://www.payfit.com">Payfit</a>,{' '}
-            <a href="https://www.scaleway.com">Scaleway</a> or{' '}
-            <a href="https://www.welcometothejungle.com">
-              Welcome to the Jungle
-            </a>{' '}
-            grow.
-          </p>
-
-          <p>
-            Over the years, I’ve become passionate about open source software
-            and sharing with others behind my computer or as a speaker at
-            conferences. <Link to="/projects">My projects</Link> are trusted by
-            thousands of developers.
-          </p>
-
-          <p>
-            I am also very active in the training field as I have given
-            workshops to more than 400 developers in companies such as{' '}
-            <a href="https://www.sncf.com">SNCF</a>,{' '}
-            <a href="https://www.alan.com">Alan</a> or{' '}
-            <a href="https://www.mappy.com">Mappy</a>.
+            Over the years, I’ve become passionate about writing unique
+            technical content and sharing with others behind my computer.{' '}
+            <Link to="/projects">My projects</Link> are trusted by several
+            industry experts.
           </p>
 
           <p>
             Don&apos;t hesitate to reach out by{' '}
             <a href="mailto:milishah1097@gmail.com">email</a> or on{' '}
-            <a href="https://twitter.com/mili_shah10">Twitter</a>. I&apos;ll be
-            happy to talk!
+            <a href="https://www.linkedin.com/in/mili-shah10">Linkedin</a>.
+            I&apos;ll be happy to talk!
           </p>
         </AboutText>
       </AboutContainer>
