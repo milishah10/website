@@ -25,7 +25,7 @@ export default function AboutPage() {
           <SectionTitle>Hi I&#39;m Mili!</SectionTitle>
           <SectionDescription>
             I can craft the unique content about your brand and convert the
-            cynic into a loyal brand promoter.
+            cynic into an astute brand recognizer.
           </SectionDescription>
         </Container>
         <AboutImage img={data.photo.childImageSharp} />

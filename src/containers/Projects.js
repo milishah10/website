@@ -334,102 +334,74 @@ function Projects({ data, projects }) {
   }, {})
   const projectElements = [
     <ProjectTemplate
-      logo={logos['smooth-doc']}
-      label={projects['smooth-doc'].label}
-      title="Smooth DOC"
-      npm="smooth-doc"
-      url="https://smooth-doc.com"
-      color="#667EEA"
-      description={projects['smooth-doc'].description}
-      tags={['Gatsby', 'docs', 'theme', 'templates']}
+      logo={logos.laravel}
+      label={projects.laravel.label}
+      title="Laravel"
+      // npm="laravel"
+      url="https://laravel.com"
+      color="#FE968F"
+      description={projects.laravel.description}
+      tags={['Laravel', 'PHP', 'Web development', 'E-commerce']}
+      stats={false}
     />,
     <ProjectTemplate
-      logo={logos.svgr}
-      label={projects.svgr.label}
-      title="SVGR"
-      npm="@svgr/core"
-      github="https://github.com/gregberge/svgr"
-      url="https://react-svgr.com"
-      color="#FF921B"
-      description={projects.svgr.description}
+      logo={logos['machine-learning']}
+      label={projects['machine-learning'].label}
+      title="Machine learning"
+      // npm="@svgr/core"
+      // github="https://github.com/gregberge/svgr"
+      // url="https://react-svgr.com"
+      color="#BDC3FB"
+      description={projects['machine-learning'].description}
       tags={['React', 'AST', 'Babel', 'create-react-app']}
+      stats={false}
     />,
     <ProjectTemplate
-      logo={logos['loadable-components']}
-      label={projects['loadable-components'].label}
-      title="Loadable Components"
-      npm="@loadable/component"
-      github="https://github.com/gregberge/loadable-components"
-      url="https://loadable-components.com"
-      color="#fff"
-      description={projects['loadable-components'].description}
+      logo={logos['app-development']}
+      label={projects['app-development'].label}
+      title="Application development"
+      // npm="@loadable/component"
+      // github="https://github.com/gregberge/app-development"
+      // url="https://app-development.com"
+      color="#e7ec10"
+      description={projects['app-development'].description}
       tags={['React', 'Code Splitting', 'webpack', 'rollup']}
+      stats={false}
     />,
     <ProjectTemplate
-      logo={logos.xstyled}
-      label={projects.xstyled.label}
-      title="xstyled"
-      npm="@xstyled/system"
-      github="https://github.com/smooth-code/xstyled"
-      url="https://www.smooth-code.com/open-source/xstyled/"
+      logo={logos.erp}
+      label={projects.erp.label}
+      title="ERP"
+      // npm="@xstyled/system"
+      // github="https://github.com/smooth-code/xstyled"
+      // url="https://www.smooth-code.com/open-source/xstyled/"
       color="#D646AA"
-      description={projects.xstyled.description}
+      description={projects.erp.description}
       tags={['React', 'CSS-in-JS', 'Styled Components', 'emotion']}
+      stats={false}
     />,
     <ProjectTemplate
-      logo={logos['smooth-ui']}
-      label={projects['smooth-ui'].label}
-      title="Smooth UI"
-      npm="@smooth-ui/core-sc"
-      github="https://github.com/smooth-code/smooth-ui"
-      url="https://www.smooth-code.com/open-source/smooth-ui/"
-      color="#E00348"
-      description={projects['smooth-ui'].description}
+      logo={logos.shopify}
+      label={projects.shopify.label}
+      title="Shopify"
+      // npm="@shopify/core-sc"
+      // github="https://github.com/Shopify"
+      url="https://www.shopify.in/"
+      color="#ABD094"
+      description={projects.shopify.description}
       tags={['React', 'UI Library']}
-    />,
-    <ProjectTemplate
-      logo={logos.jamtemplates}
-      label={projects.jamtemplates.label}
-      title="JamTemplates"
-      github="https://github.com/gregberge/jamtemplates.com"
-      url="https://jamtemplates.com"
-      color="#8aa5ff"
-      description={projects.jamtemplates.description}
-      tags={['Gatsby', 'themes', 'templates']}
       stats={false}
     />,
     <ProjectTemplate
-      logo={logos['bundle-analyzer']}
-      label={projects['bundle-analyzer'].label}
-      title="Bundle Analyzer"
-      github="https://github.com/smooth-code/bundle-analyzer"
-      url="https://www.bundle-analyzer.com"
+      logo={logos.wordpress}
+      label={projects.wordpress.label}
+      title="Wordpress"
+      // github="https://github.com/smooth-code/wordpress"
+      url="https://www.wordpress.com"
       color="#097dea"
-      description={projects['bundle-analyzer'].description}
+      description={projects.wordpress.description}
       tags={['Node.js', 'automation', 'devops']}
       stats={false}
-    />,
-    <ProjectTemplate
-      logo={logos['jest-puppeteer']}
-      label={projects['jest-puppeteer'].label}
-      title="Jest Puppeteer"
-      npm="jest-puppeteer"
-      github="https://github.com/smooth-code/jest-puppeteer"
-      url="https://github.com/smooth-code/jest-puppeteer"
-      color="#FF5600"
-      description={projects['jest-puppeteer'].description}
-      tags={['Node.js', 'Jest', 'Puppeteer', 'E2E Testing']}
-    />,
-    <ProjectTemplate
-      logo={logos.shipit}
-      label={projects.shipit.label}
-      title="Shipit"
-      npm="shipit-cli"
-      github="https://github.com/shipitjs/shipit"
-      url="https://github.com/shipitjs/shipit"
-      color="#FBA919"
-      description={projects.shipit.description}
-      tags={['Node.js', 'automation', 'devops']}
     />,
   ]
   return (
