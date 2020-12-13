@@ -32,7 +32,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-machine-learning-is-beneficial-for-retail-industry/">
-                  How machine learning is beneficial for retail industry
+                  How Machine Learning Is Beneficial For Retail Industry
                 </a>
               </li>
             </>
