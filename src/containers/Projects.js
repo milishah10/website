@@ -403,6 +403,149 @@ function Projects({ data, projects }) {
       tags={['Node.js', 'automation', 'devops']}
       stats={false}
     />,
+    <ProjectTemplate
+      logo={logos.wordpress}
+      label={projects['web-development'].label}
+      title="Web Development"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#097dea"
+      description={projects['web-development'].description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.iot}
+      label={projects.iot.label}
+      title="IOT"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#097dea"
+      description={projects.iot.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.wordpress}
+      label={projects['digital-marketing'].label}
+      title="Digital Marketing"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#097dea"
+      description={projects['digital-marketing'].description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.iot}
+      label={projects.pwa.label}
+      title="PWA"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#097dea"
+      description={projects.pwa.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.iot}
+      label={projects.devops.label}
+      title="DevOps"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#097dea"
+      description={projects.devops.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.iot}
+      label={projects.nodejs.label}
+      title="Node.js"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#097dea"
+      description={projects.nodejs.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.magento}
+      label={projects.magento.label}
+      title="Magento"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#f4b29c"
+      description={projects.magento.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos['nop-commerce']}
+      label={projects['nop-commerce'].label}
+      title="NOP Commerce"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#3082bb"
+      description={projects['nop-commerce'].description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos['woo-commerce']}
+      label={projects['woo-commerce'].label}
+      title="WOO Commerce"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#ceabc7"
+      description={projects['woo-commerce'].description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.codeigniter}
+      label={projects.codeigniter.label}
+      title="Codeigniter"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#f6a090"
+      description={projects.codeigniter.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.wordpress}
+      label={projects['home-decore'].label}
+      title="Home Decore"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#ceabc7"
+      description={projects['home-decore'].description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.avast}
+      label={projects['cyber-security'].label}
+      title="Cyber Security"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#ceabc7"
+      description={projects['cyber-security'].description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
+    <ProjectTemplate
+      logo={logos.avast}
+      label={projects.other.label}
+      title="Other"
+      // github="https://github.com/smooth-code/wordpress"
+      // url="https://www.wordpress.com"
+      color="#ceabc7"
+      description={projects.other.description}
+      tags={['Node.js', 'automation', 'devops']}
+      stats={false}
+    />,
   ]
   return (
     <Box mt={5} row mb={{ xs: -4, md: -5 }}>
