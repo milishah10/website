@@ -31,21 +31,8 @@ export default function ProjectsPage() {
           description: (
             <>
               <li>
-                <a href="https://www.ncodetechnologies.com/how-laravel-development-company-can-help-you-build-an-enterprise-app-solution-2020/">
-                  How laravel development company can help you build an
-                  enterprise app solution 2020
-                </a>
-              </li>
-              <li>
-                <a href="https://www.ncodetechnologies.com/how-laravel-development-company-can-help-you-build-an-enterprise-app-solution-2020/">
-                  How laravel development company can help you build an
-                  enterprise app solution 2020
-                </a>
-              </li>
-              <li>
-                <a href="https://www.ncodetechnologies.com/how-laravel-development-company-can-help-you-build-an-enterprise-app-solution-2020/">
-                  How laravel development company can help you build an
-                  enterprise app solution 2020
+                <a href="https://www.ncodetechnologies.com/how-machine-learning-is-beneficial-for-retail-industry/">
+                  How machine learning is beneficial for retail industry
                 </a>
               </li>
             </>
