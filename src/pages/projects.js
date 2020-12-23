@@ -19,7 +19,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-laravel-development-company-can-help-you-build-an-enterprise-app-solution-2020/">
-                  How laravel development company can help you build an
+                  How Laravel development company can help you build an
                   enterprise app solution 2020
                 </a>
               </li>
@@ -30,7 +30,7 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/compelling-reasons-to-choose-laravel-web-development-company/">
-                  Compelling reasons to choose laravel web development company
+                  Compelling reasons to choose Laravel web development company
                 </a>
               </li>
               <li>
@@ -144,33 +144,33 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-wordpress-web-stories-plugins-could-get-you-on-the-today-show/">
-                  How wordpress web stories plugins
+                  How Wordpress web stories plugins
                   could get you on the today show
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/the-amendments-of-the-wordpress-new-version-5-5/">
-                  The amendments of wordpress new version 5.5
+                  The amendments of Wordpress new version 5.5
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-to-develop-a-wordpress-website-as-a-saas/">
-                  How to develop a wordpress website as a saas
+                  How to develop a Wordpress website as a saas
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/things-to-consider-in-wordpress-website-optimization/">
-                  things to consider in wordpress website optimization
+                  Things to consider in Wordpress website optimization
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/perks-you-can-get-with-wordpress-web-development-company/">
-                  Perks you can get with wordpress web development company
+                  Perks you can get with Wordpress web development company
                 </a>
               </li>
               <li>
                 <a href="https://www.wordpresssupporthub.com/">
-                  FAQ - wordpress support hub 
+                  FAQ - Wordpress support hub 
                 </a>
               </li>
             </>
@@ -182,7 +182,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/magnificent-php-web-development-trends-2020-to-endorse/">
-                  magnificent PHP web development trends 2020 to endorse
+                  Magnificent PHP web development trends 2020 to endorse
                 </a>
               </li>
               <li>
@@ -209,7 +209,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.esparkinfo.com/node-js-for-iot.html/">
-                  nodejs for IoT
+                  Nodejs for IoT
                 </a>
               </li>
             </>
@@ -243,7 +243,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/insights-of-progressive-web-app-development//">
-                  insights of progressive web app development
+                  Insights of progressive web app development
                 </a>
               </li>
             </>
@@ -280,7 +280,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/ncode-technologies-as-a-guide-for-magento-2-4/">
-                  NCode technologies as a guide for magento 2.4
+                  NCode technologies as a guide for Magento 2.4
                 </a>
               </li>
               <li>
@@ -303,13 +303,13 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-nopcommerce-development-services-your-go-to-choice-for-b2b-development/">
-                  How nopcommerce development services your
+                  How NopCommerce development services your
                   go to choice for B2B development
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/the-signification-of-multi-vendor-nopcommerce-e-commerce-web-store/">
-                  The signification of multi vendor nopcommerce
+                  The signification of multi vendor NopCommerce
                   e-commerce web store
                 </a>
               </li>
@@ -333,7 +333,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/woocommerce-plugins-to-choose-for-better-audience-engagement/">
-                  woocommerce plugins to choose for better audience
+                  Woocommerce plugins to choose for better audience
                   engagement
                 </a>
               </li>
@@ -346,13 +346,13 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/death-of-codeigniter-web-development-is-that-true/">
-                  Death of codeigniter web development is that true
+                  Death of Codeigniter web development is that true
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/the-important-aspects-to-check-before-choosing-codeigniter-development-company/">
                   The important aspects to check before choosing
-                  the codeigniter development company
+                  the Codeigniter development company
                 </a>
               </li>
             </>
@@ -364,12 +364,12 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="http://seorank.us/testing/ccs/demo/splashback/">
-                  Webpage content - splashback
+                  Webpage content - Splashback
                 </a>
               </li>
               <li>
                 <a href="http://seorank.us/testing/ccs/demo/shower-screen/">
-                  Webpage content - shower screen
+                  Webpage content - Shower screen
                 </a>
               </li>
               <li>
@@ -379,7 +379,7 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="http://seorank.us/testing/ccs/demo/mirrors/">
-                  Webpage content - mirrors
+                  Webpage content - Mirrors
                 </a>
               </li>
             </>
@@ -391,22 +391,22 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.global-technical-support.co.uk/kaspersky-support">
-                  FAQ - kaspersky
+                  FAQ - Kaspersky
                 </a>
               </li>
               <li>
                 <a href="https://www.global-technical-support.co.uk/avast-support">
-                  FAQ - avast
+                  FAQ - Avast
                 </a>
               </li>
               <li>
                 <a href="https://www.global-technical-support.co.uk/mcafee-support">
-                  FAQ - mcafee
+                  FAQ - McAfee
                 </a>
               </li>
               <li>
                 <a href="https://www.global-technical-support.co.uk/netgear-support">
-                  FAQ - netgear
+                  FAQ - Netgear
                 </a>
               </li>
             </>
@@ -418,7 +418,7 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.lugelo.com/storybook/feature_inner/i-tried-the-ketogenic-diet-for-30-days-and-heres-what-happened">
-                  my experience on ketogenic diet for 30 days
+                  My experience on ketogenic diet for 30 days
                 </a>
               </li>
               <li>
