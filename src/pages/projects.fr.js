@@ -18,7 +18,7 @@ export default function ProjectsPage() {
           description: (
             <>
               <li>
-                <a href="https://www.ncodetechnologies.com/how-laravel-development-company-can-help-you-build-an-enterprise-app-solution-2020/">
+                <a href="https://www.ncodetechnologies.com/blog/how-laravel-development-company-can-help-you-build-an-enterprise-app-solution-2020/">
                   How Laravel development company can help you build an
                   enterprise app solution 2020
                 </a>
