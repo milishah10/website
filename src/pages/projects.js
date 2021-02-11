@@ -40,8 +40,8 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-the-laravel-framework-is-highly-preferable-to-strengthen-business-growth/">
-                  Why Laravel framework is highly preferable 
-                  to strengthen business growth
+                  Why Laravel framework is highly preferable to strengthen
+                  business growth
                 </a>
               </li>
             </>
@@ -66,25 +66,21 @@ export default function ProjectsPage() {
               <li>
                 <a href="https://www.ncodetechnologies.com/5-ways-to-make-your-mobile-application-more-engaging/">
                   5 Ways to make your mobile application more engaging
-                  
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/5-ways-to-make-your-mobile-application-more-engaging-2/">
                   5 Ways to make your mobile application more engaging 2
-
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/why-go-for-grocery-development-apps-in-covid-19/">
                   Why go for grocery development apps in COVID-19
-
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/why-flutter-mobile-development-is-the-best-option-for-startups/">
                   Why flutter mobile development is the best option for startups
-
                 </a>
               </li>
             </>
@@ -97,7 +93,7 @@ export default function ProjectsPage() {
               <li>
                 <a href="https://www.ncodetechnologies.com/why-erp-is-essential-for-manufacturing-operations/">
                   Why ERP is essential for manufacturing operations
-                </a>  
+                </a>
               </li>
             </>
           ),
@@ -108,26 +104,26 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/The+Call+for+Customize+Checkout+Page+for+Shopify+Web+Development/">
-                  The call for Customize Checkout page for 
-                  Shopify web Development
+                  The call for Customize Checkout page for Shopify web
+                  Development
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/managing-multiple-custom-designs-with-shopify-online-poster-design-tool/">
-                  Managing multiple custome designs with 
-                  shopify online poster design tool
+                  Managing multiple custome designs with shopify online poster
+                  design tool
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/shopify-plus-serving-international-brands-with-its-stand-out-features/">
-                  Shopify plus serving international brands with 
-                  its stand out features
+                  Shopify plus serving international brands with its stand out
+                  features
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/customize-banner-design-ultimate-solution-provided-by-shopify-development-company/">
-                  Customize banner design ultimate solution
-                  provided by Shopify development company
+                  Customize banner design ultimate solution provided by Shopify
+                  development company
                 </a>
               </li>
               <li>
@@ -144,8 +140,8 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-wordpress-web-stories-plugins-could-get-you-on-the-today-show/">
-                  How Wordpress web stories plugins
-                  could get you on the today show
+                  How Wordpress web stories plugins could get you on the today
+                  show
                 </a>
               </li>
               <li>
@@ -170,7 +166,7 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.wordpresssupporthub.com/">
-                  FAQ - Wordpress support hub 
+                  FAQ - Wordpress support hub
                 </a>
               </li>
             </>
@@ -221,17 +217,17 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="http://www.smsidea.biz/Service/SMM-services/">
-                  Web site content  - Social media Marketing services
+                  Web site content - Social media Marketing services
                 </a>
               </li>
               <li>
                 <a href="http://www.smsidea.biz/Service/SMO-services/">
-                  Web site content  - SMO services
+                  Web site content - SMO services
                 </a>
               </li>
               <li>
                 <a href="http://wizardseohub.com/services/social-media-optimization//">
-                  Web site content  - Social Media Optimization services
+                  Web site content - Social Media Optimization services
                 </a>
               </li>
             </>
@@ -249,20 +245,19 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        ' devops': {
+        devops: {
           label: 'The world’s most popular website builder.',
           description: (
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/devops-software-development-services-survivor-of-covid-19/">
-                  Devops software development services 
-                  survivor of COVID-19
+                  Devops software development services survivor of COVID-19
                 </a>
               </li>
             </>
           ),
         },
-        'nodejs': {
+        nodejs: {
           label: 'The world’s most popular website builder.',
           description: (
             <>
@@ -274,7 +269,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        'magento': {
+        magento: {
           label: 'The world’s most popular website builder.',
           description: (
             <>
@@ -290,8 +285,8 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-magento-can-accelerate-your-b2b-business-at-the-global-level/">
-                  How Magento can accelerate your B2B business
-                  at the global level
+                  How Magento can accelerate your B2B business at the global
+                  level
                 </a>
               </li>
             </>
@@ -303,20 +298,20 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-nopcommerce-development-services-your-go-to-choice-for-b2b-development/">
-                  How NopCommerce development services your
-                  go to choice for B2B development
+                  How NopCommerce development services your go to choice for B2B
+                  development
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/the-signification-of-multi-vendor-nopcommerce-e-commerce-web-store/">
-                  The signification of multi vendor NopCommerce
-                  e-commerce web store
+                  The signification of multi vendor NopCommerce e-commerce web
+                  store
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/how-to-decrease-the-cart-abandonment-rate-for-your-nopcommerce-website/">
-                  How to decrease the cart abandonment rate
-                  for your NopCommerce website
+                  How to decrease the cart abandonment rate for your NopCommerce
+                  website
                 </a>
               </li>
               <li>
@@ -333,14 +328,13 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/woocommerce-plugins-to-choose-for-better-audience-engagement/">
-                  Woocommerce plugins to choose for better audience
-                  engagement
+                  Woocommerce plugins to choose for better audience engagement
                 </a>
               </li>
             </>
           ),
         },
-        'codeigniter': {
+        codeigniter: {
           label: 'The world’s most popular website builder.',
           description: (
             <>
@@ -351,8 +345,8 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/the-important-aspects-to-check-before-choosing-codeigniter-development-company/">
-                  The important aspects to check before choosing
-                  the Codeigniter development company
+                  The important aspects to check before choosing the Codeigniter
+                  development company
                 </a>
               </li>
             </>
@@ -412,7 +406,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        'other': {
+        other: {
           label: 'The world’s most popular website builder.',
           description: (
             <>
@@ -423,8 +417,7 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.lugelo.com/storybook/feature_inner/2020-is-this-the-end-of-travel-blogging-for-me-and-whats-next">
-                  2020 - The end of the travel blogging for me
-                  and what is next
+                  2020 - The end of the travel blogging for me and what is next
                 </a>
               </li>
               <li>
