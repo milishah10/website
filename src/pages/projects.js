@@ -40,8 +40,8 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/how-the-laravel-framework-is-highly-preferable-to-strengthen-business-growth/">
-                  Why Laravel framework is highly preferable 
-                  to strengthen business growth
+                  Why Laravel framework is highly preferable to strengthen
+                  business growth
                 </a>
               </li>
             </>
@@ -104,26 +104,26 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/The+Call+for+Customize+Checkout+Page+for+Shopify+Web+Development">
-                  The call for Customize Checkout page for 
-                  Shopify web Development
+                  The call for Customize Checkout page for Shopify web
+                  Development
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/managing-multiple-custom-designs-with-shopify-online-poster-design-tool/">
-                  Managing multiple custome designs with 
-                  shopify online poster design tool
+                  Managing multiple custome designs with shopify online poster
+                  design tool
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/shopify-plus-serving-international-brands-with-its-stand-out-features/">
-                  Shopify plus serving international brands with 
-                  its stand out features
+                  Shopify plus serving international brands with its stand out
+                  features
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/customize-banner-design-ultimate-solution-provided-by-shopify-development-company/">
-                  Customize banner design ultimate solution
-                  provided by Shopify development company
+                  Customize banner design ultimate solution provided by Shopify
+                  development company
                 </a>
               </li>
               <li>
@@ -140,8 +140,8 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/how-wordpress-web-stories-plugins-could-get-you-on-the-today-show/">
-                  How Wordpress web stories plugins
-                  could get you on the today show
+                  How Wordpress web stories plugins could get you on the today
+                  show
                 </a>
               </li>
               <li>
@@ -251,14 +251,13 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/devops-software-development-services-survivor-of-covid-19/">
-                  Devops software development services 
-                  survivor of COVID-19
+                  Devops software development services survivor of COVID-19
                 </a>
               </li>
             </>
           ),
         },
-        'nodejs': {
+        nodejs: {
           label: 'Designed to Build Scalable Network Applications',
           description: (
             <>
@@ -270,7 +269,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        'magento': {
+        magento: {
           label: 'Leading Platform for Open Commerce Innovation',
           description: (
             <>
@@ -286,8 +285,8 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/how-magento-can-accelerate-your-b2b-business-at-the-global-level/">
-                  How Magento can accelerate your B2B business
-                  at the global level
+                  How Magento can accelerate your B2B business at the global
+                  level
                 </a>
               </li>
             </>
@@ -299,20 +298,20 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/how-nopcommerce-development-services-your-go-to-choice-for-b2b-development/">
-                  How NopCommerce development services your
-                  go to choice for B2B development
+                  How NopCommerce development services your go to choice for B2B
+                  development
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/the-signification-of-multi-vendor-nopcommerce-e-commerce-web-store/">
-                  The signification of multi vendor NopCommerce
-                  e-commerce web store
+                  The signification of multi vendor NopCommerce e-commerce web
+                  store
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/how-to-decrease-the-cart-abandonment-rate-for-your-nopcommerce-website/">
-                  How to decrease the cart abandonment rate
-                  for your NopCommerce website
+                  How to decrease the cart abandonment rate for your NopCommerce
+                  website
                 </a>
               </li>
               <li>
@@ -329,14 +328,13 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/woocommerce-plugins-to-choose-for-better-audience-engagement/">
-                  Woocommerce plugins to choose for better audience
-                  engagement
+                  Woocommerce plugins to choose for better audience engagement
                 </a>
               </li>
             </>
           ),
         },
-        'codeigniter': {
+        codeigniter: {
           label: 'Open-source Software Rapid Development Web Framework',
           description: (
             <>
@@ -347,8 +345,8 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/the-important-aspects-to-check-before-choosing-codeigniter-development-company/">
-                  The important aspects to check before choosing
-                  the Codeigniter development company
+                  The important aspects to check before choosing the Codeigniter
+                  development company
                 </a>
               </li>
             </>
@@ -408,7 +406,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        'other': {
+        other: {
           label: 'Online Story Board',
           description: (
             <>
