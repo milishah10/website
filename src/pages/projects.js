@@ -66,25 +66,21 @@ export default function ProjectsPage() {
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/5-ways-to-make-your-mobile-application-more-engaging/">
                   5 Ways to make your mobile application more engaging
-                  
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/5-ways-to-make-your-mobile-application-more-engaging-2/">
                   5 Ways to make your mobile application more engaging 2
-
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/why-go-for-grocery-development-apps-in-covid-19/">
                   Why go for grocery development apps in COVID-19
-
                 </a>
               </li>
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/how-flutter-can-bring-you-the-credibility-to-your-business-with-its-features/">
                   Why flutter mobile development is the best option for startups
-
                 </a>
               </li>
             </>
@@ -97,7 +93,7 @@ export default function ProjectsPage() {
               <li>
                 <a href="https://www.ncodetechnologies.com/blog/why-erp-is-essential-for-manufacturing-operations/">
                   Why ERP is essential for manufacturing operations
-                </a>  
+                </a>
               </li>
             </>
           ),
@@ -170,7 +166,7 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.wordpresssupporthub.com/">
-                  FAQ - Wordpress support hub 
+                  FAQ - Wordpress support hub
                 </a>
               </li>
             </>
@@ -221,17 +217,17 @@ export default function ProjectsPage() {
             <>
               <li>
                 <a href="http://www.smsidea.biz/Service/SMM-services/">
-                  Web site content  - Social media Marketing services
+                  Web site content - Social media Marketing services
                 </a>
               </li>
               <li>
                 <a href="http://www.smsidea.biz/Service/SMO-services/">
-                  Web site content  - SMO services
+                  Web site content - SMO services
                 </a>
               </li>
               <li>
                 <a href="http://wizardseohub.com/services/social-media-optimization//">
-                  Web site content  - Social Media Optimization services
+                  Web site content - Social Media Optimization services
                 </a>
               </li>
             </>
@@ -423,8 +419,7 @@ export default function ProjectsPage() {
               </li>
               <li>
                 <a href="https://www.lugelo.com/storybook/feature_inner/2020-is-this-the-end-of-travel-blogging-for-me-and-whats-next">
-                  2020 - The end of the travel blogging for me
-                  and what is next
+                  2020 - The end of the travel blogging for me and what is next
                 </a>
               </li>
               <li>
