@@ -245,7 +245,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        ' devops': {
+        devops: {
           label: 'Where The World Meets DevOps',
           description: (
             <>
