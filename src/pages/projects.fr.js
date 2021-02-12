@@ -274,7 +274,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        magento: {
+        'magento': {
           label: 'Leading Platform for Open Commerce Innovation',
           description: (
             <>
@@ -340,7 +340,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        codeigniter: {
+        'codeigniter': {
           label: 'Open-source Software Rapid Development Web Framework',
           description: (
             <>
