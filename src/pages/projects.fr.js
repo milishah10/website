@@ -262,7 +262,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        CRM: {
+        'CRM': {
           label: 'Customer Relationship Management',
           description: (
             <>
