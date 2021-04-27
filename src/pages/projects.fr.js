@@ -249,7 +249,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        devops: {
+        'devops': {
           label: 'Where The World Meets DevOps',
           description: (
             <>
@@ -262,7 +262,7 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        'CRM': {
+        CRM: {
           label: 'Customer Relationship Management',
           description: (
             <>
