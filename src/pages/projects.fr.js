@@ -262,13 +262,13 @@ export default function ProjectsPage() {
             </>
           ),
         },
-        nodejs: {
-          label: 'Designed to Build Scalable Network Applications',
+        CRM: {
+          label: 'Customer Relationship Management',
           description: (
             <>
               <li>
-                <a href="https://www.ncodetechnologies.com/blog/ruling-node-js-frameworks-of-2020/">
-                  Ruling Node Js frameworks of 2020
+                <a href="https://solvios.technology/things-to-check-for-successful-salesforce-integration/">
+                  Things to check for Successful Salesforce Integration
                 </a>
               </li>
             </>
